@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-21 16:50">
+  <shop>
+    <name>X-AVTO</name>
+    <company>X-AVTO</company>
+    <url>https://x-avto.com/</url>
+    <categories>
+      <category id="1">Автомобили</category>
+    </categories>
+    <offers>
+      <offer id="2" available="true">
+        <url>https://x-avto.com/avtopark/mercedes-benz-g400d/</url>
+        <price>39900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/1ac/bz85efocjlrcd0gxsf4ox3rse9n8kinj.jpg</picture>
+        <name>Mercedes-Benz G400d</name>
+        <vendor>Mercedes-Benz</vendor>
+        <param name="Аренда">39900 ₽/сутки</param>
+      </offer>
+      <offer id="3" available="true">
+        <url>https://x-avto.com/avtopark/cadillac-escalade-esv-6-2/</url>
+        <price>17900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/f20/17wmfktspnzmuuqjo1h6zrsvtif3py66.PNG</picture>
+        <name>Cadillac Escalade ESV 6.2</name>
+        <vendor>Cadillac</vendor>
+        <param name="Аренда">17900 ₽/сутки</param>
+      </offer>
+      <offer id="4" available="true">
+        <url>https://x-avto.com/avtopark/cadillac-escalade-6-2/</url>
+        <price>18900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/ce1/j6umicvpvfv12368twqvvjaiwb3qzzwu.png</picture>
+        <name>Cadillac Escalade 6.2</name>
+        <vendor>Cadillac</vendor>
+        <param name="Аренда">18900 ₽/сутки</param>
+      </offer>
+      <offer id="5" available="true">
+        <url>https://x-avto.com/avtopark/bmw-x6-40d/</url>
+        <price>18000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/ada/gi7zdy8ltl8g3xtoywe8770czrkm4zcp.png</picture>
+        <name>BMW x6 40d</name>
+        <vendor>BMW</vendor>
+        <param name="Аренда">18000 ₽/сутки</param>
+      </offer>
+      <offer id="6" available="true">
+        <url>https://x-avto.com/avtopark/bmw-530-xdrive-g30/</url>
+        <price>16000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/fd2/u6mw4flp3azr33yli1vhcoo4k275rt4c.webp</picture>
+        <name>BMW 530 xDrive G30</name>
+        <vendor>BMW</vendor>
+        <param name="Аренда">16000 ₽/сутки</param>
+      </offer>
+      <offer id="7" available="true">
+        <url>https://x-avto.com/avtopark/bmw-420-g22/</url>
+        <price>17000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/5f0/529hryj54gvwm5b3j4ezi51y3tfx0n69.png</picture>
+        <name>BMW 420 G22</name>
+        <vendor>BMW</vendor>
+        <param name="Аренда">17000 ₽/сутки</param>
+      </offer>
+      <offer id="8" available="true">
+        <url>https://x-avto.com/avtopark/avatr-11/</url>
+        <price>16900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/f89/zf4z16a1iunahiy0gzghx76z3r0umxct.jpg</picture>
+        <name>Avatr 11</name>
+        <vendor>Avatr</vendor>
+        <param name="Аренда">16900 ₽/сутки</param>
+      </offer>
+      <offer id="9" available="true">
+        <url>https://x-avto.com/avtopark/cherry-tiggo-8-pro-max/</url>
+        <price>7500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/a58/an6d1m20gk2yr27v7k9rzop7jqn3qexa.png</picture>
+        <name>Cherry tiggo 8 pro max</name>
+        <vendor>Cherry</vendor>
+        <param name="Аренда">7500 ₽/сутки</param>
+      </offer>
+      <offer id="10" available="true">
+        <url>https://x-avto.com/avtopark/jetour-t2/</url>
+        <price>9950</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/72f/6mitiwlynrsuqds5qqoykbshl55almpe.jpg</picture>
+        <name>Jetour T2</name>
+        <vendor>Jetour</vendor>
+        <param name="Аренда">9950 ₽/сутки</param>
+      </offer>
+      <offer id="12" available="true">
+        <url>https://x-avto.com/avtopark2/avto_mercedes-benz-g400d/</url>
+        <price>39900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/1ac/bz85efocjlrcd0gxsf4ox3rse9n8kinj.jpg</picture>
+        <name>Mercedes-Benz G400d</name>
+        <vendor>Mercedes-Benz</vendor>
+        <param name="Аренда">39900 ₽/сутки</param>
+      </offer>
+      <offer id="13" available="true">
+        <url>https://x-avto.com/avtopark2/avto_cadillac-escalade-esv-6-2/</url>
+        <price>17900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/f20/17wmfktspnzmuuqjo1h6zrsvtif3py66.PNG</picture>
+        <name>Cadillac Escalade ESV 6.2</name>
+        <vendor>Cadillac</vendor>
+        <param name="Аренда">17900 ₽/сутки</param>
+      </offer>
+      <offer id="14" available="true">
+        <url>https://x-avto.com/avtopark2/avto_cadillac-escalade-6-2/</url>
+        <price>18900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/ce1/j6umicvpvfv12368twqvvjaiwb3qzzwu.png</picture>
+        <name>Cadillac Escalade 6.2</name>
+        <vendor>Cadillac</vendor>
+        <param name="Аренда">18900 ₽/сутки</param>
+      </offer>
+      <offer id="15" available="true">
+        <url>https://x-avto.com/avtopark2/avto_bmw-x6-40d/</url>
+        <price>18000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/ada/gi7zdy8ltl8g3xtoywe8770czrkm4zcp.png</picture>
+        <name>BMW x6 40d</name>
+        <vendor>BMW</vendor>
+        <param name="Аренда">18000 ₽/сутки</param>
+      </offer>
+      <offer id="16" available="true">
+        <url>https://x-avto.com/avtopark2/avto_bmw-530-xdrive-g30/</url>
+        <price>16000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/fd2/u6mw4flp3azr33yli1vhcoo4k275rt4c.webp</picture>
+        <name>BMW 530 xDrive G30</name>
+        <vendor>BMW</vendor>
+        <param name="Аренда">16000 ₽/сутки</param>
+      </offer>
+      <offer id="17" available="true">
+        <url>https://x-avto.com/avtopark2/avto_bmw-420-g22/</url>
+        <price>17000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/5f0/529hryj54gvwm5b3j4ezi51y3tfx0n69.png</picture>
+        <name>BMW 420 G22</name>
+        <vendor>BMW</vendor>
+        <param name="Аренда">17000 ₽/сутки</param>
+      </offer>
+      <offer id="18" available="true">
+        <url>https://x-avto.com/avtopark2/avto_avatr-11/</url>
+        <price>16900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/f89/zf4z16a1iunahiy0gzghx76z3r0umxct.jpg</picture>
+        <name>Avatr 11</name>
+        <vendor>Avatr</vendor>
+        <param name="Аренда">16900 ₽/сутки</param>
+      </offer>
+      <offer id="19" available="true">
+        <url>https://x-avto.com/avtopark2/avto_cherry-tiggo-8-pro-max/</url>
+        <price>7500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/a58/an6d1m20gk2yr27v7k9rzop7jqn3qexa.png</picture>
+        <name>Cherry tiggo 8 pro max</name>
+        <vendor>Cherry</vendor>
+        <param name="Аренда">7500 ₽/сутки</param>
+      </offer>
+      <offer id="20" available="true">
+        <url>https://x-avto.com/avtopark2/avto_jetour-t2/</url>
+        <price>9950</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/72f/6mitiwlynrsuqds5qqoykbshl55almpe.jpg</picture>
+        <name>Jetour T2</name>
+        <vendor>Jetour</vendor>
+        <param name="Аренда">9950 ₽/сутки</param>
+      </offer>
+      <offer id="22" available="true">
+        <url>https://x-avto.com/avtopark3/car-mercedes-benz-g400d/</url>
+        <price>39900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/1ac/bz85efocjlrcd0gxsf4ox3rse9n8kinj.jpg</picture>
+        <name>Mercedes-Benz G400d</name>
+        <vendor>Mercedes-Benz</vendor>
+        <param name="Аренда">39900 ₽/сутки</param>
+      </offer>
+      <offer id="23" available="true">
+        <url>https://x-avto.com/avtopark3/car-cadillac-escalade-esv-6-2/</url>
+        <price>17900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/f20/17wmfktspnzmuuqjo1h6zrsvtif3py66.PNG</picture>
+        <name>Cadillac Escalade ESV 6.2</name>
+        <vendor>Cadillac</vendor>
+        <param name="Аренда">17900 ₽/сутки</param>
+      </offer>
+      <offer id="24" available="true">
+        <url>https://x-avto.com/avtopark3/car-cadillac-escalade-6-2/</url>
+        <price>18900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/ce1/j6umicvpvfv12368twqvvjaiwb3qzzwu.png</picture>
+        <name>Cadillac Escalade 6.2</name>
+        <vendor>Cadillac</vendor>
+        <param name="Аренда">18900 ₽/сутки</param>
+      </offer>
+      <offer id="25" available="true">
+        <url>https://x-avto.com/avtopark3/car-bmw-x6-40d/</url>
+        <price>18000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/ada/gi7zdy8ltl8g3xtoywe8770czrkm4zcp.png</picture>
+        <name>BMW x6 40d</name>
+        <vendor>BMW</vendor>
+        <param name="Аренда">18000 ₽/сутки</param>
+      </offer>
+      <offer id="26" available="true">
+        <url>https://x-avto.com/avtopark3/bmw-530-xdrive-g30/</url>
+        <price>16000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/fd2/u6mw4flp3azr33yli1vhcoo4k275rt4c.webp</picture>
+        <name>BMW 530 xDrive G30</name>
+        <vendor>BMW</vendor>
+        <param name="Аренда">16000 ₽/сутки</param>
+      </offer>
+      <offer id="27" available="true">
+        <url>https://x-avto.com/avtopark3/car-bmw-420-g22/</url>
+        <price>17000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/5f0/529hryj54gvwm5b3j4ezi51y3tfx0n69.png</picture>
+        <name>BMW 420 G22</name>
+        <vendor>BMW</vendor>
+        <param name="Аренда">17000 ₽/сутки</param>
+      </offer>
+      <offer id="28" available="true">
+        <url>https://x-avto.com/avtopark3/car-avatr-11/</url>
+        <price>16900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/f89/zf4z16a1iunahiy0gzghx76z3r0umxct.jpg</picture>
+        <name>Avatr 11</name>
+        <vendor>Avatr</vendor>
+        <param name="Аренда">16900 ₽/сутки</param>
+      </offer>
+      <offer id="29" available="true">
+        <url>https://x-avto.com/avtopark3/car-cherry-tiggo-8-pro-max/</url>
+        <price>7500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/a58/an6d1m20gk2yr27v7k9rzop7jqn3qexa.png</picture>
+        <name>Cherry tiggo 8 pro max</name>
+        <vendor>Cherry</vendor>
+        <param name="Аренда">7500 ₽/сутки</param>
+      </offer>
+      <offer id="30" available="true">
+        <url>https://x-avto.com/avtopark3/car-jetour-t2/</url>
+        <price>9950</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://x-avto.com/upload/iblock/72f/6mitiwlynrsuqds5qqoykbshl55almpe.jpg</picture>
+        <name>Jetour T2</name>
+        <vendor>Jetour</vendor>
+        <param name="Аренда">9950 ₽/сутки</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
